@@ -1,0 +1,23 @@
+Metadata-Version: 2.2
+Name: RobotPySwerve
+Version: 0.1.dev1+ge57e271.d20250129
+Summary: Swerve Drive for RobotPy
+Home-page: https://github.com/TheGloved1/RobotPySwerve
+Author: Mepo Robotics
+Author-email: meporobotic@gmail.com
+License: BSD-3-Clause
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: wpilib<2026.0.0,>=2025.2.1
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# RobotPySwerve
+# RobotPySwerve
